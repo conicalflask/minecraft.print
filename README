@@ -1,3 +1,7 @@
+---WHY HAS THIS BEEN FORKED?---
+Features are coming to make complex worlds more printable on Fused Filament Fabrication (FFF), or Reprap printers.
+
+
 ---WHAT IS THIS?---
 Minecraft.Print() is a python library for converting defined regions of Minecraft levels to a 3D Printable format.
 
